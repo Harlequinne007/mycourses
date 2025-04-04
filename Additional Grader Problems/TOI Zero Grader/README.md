@@ -5,18 +5,18 @@
 ### Lists of Problems
 | Codename | Difficulty             | Name & Description     | Level  | Bruteforcable ? | Note            | Done ? |
 | ------ | ------------------ | --------------------------------------------------- | ------- | ------- | ------------------------ | --- |
-| A1-001 | Easy               | If else                                             | Camp 0  | Unknown |                          | No  |
-| A1-002 | Easy               | If else                                             | Camp 0  | Unknown |                          | No  |
-| A1-003 | Easy               | Min Max                                             | Camp 0  | Unknown |                          | No  |
-| A1-004 | Easy               | If else                                             | Camp 0  | Unknown |                          | No  |
-| A1-005 | Easy               | If else                                             | Camp 0  | Unknown |                          | No  |
-| A1-006 | Easy               | If else                                             | Camp 0  | Unknown |                          | No  |
-| A1-007 | Easy               | If else                                             | Camp 0  | Unknown |                          | No  |
-| A1-008 | Easy               | String                                              | Camp 0  | Unknown |                          | No  |
-| A1-009 | Easy               | If else                                             | Camp 0  | Unknown |                          | No  |
-| A1-010 | Easy               | If else                                             | Camp 0  | Unknown |                          | No  |
+| A1-001 | Easy               | If else                                             | Camp 0  | Unknown |                          | ☑️  |
+| A1-002 | Easy               | If else                                             | Camp 0  | Unknown |                          | ☑️  |
+| A1-003 | Easy               | Min Max                                             | Camp 0  | Unknown |                          | ☑️  |
+| A1-004 | Easy               | If else                                             | Camp 0  | Unknown |                          | ☑️  |
+| A1-005 | Easy               | If else                                             | Camp 0  | Unknown |                          | ☑️  |
+| A1-006 | Easy               | If else                                             | Camp 0  | Unknown |                          | ☑️  |
+| A1-007 | Easy               | If else                                             | Camp 0  | Unknown |                          | ☑️  |
+| A1-008 | Easy               | String                                              | Camp 0  | Unknown |                          | ☑️  |
+| A1-009 | Easy               | If else                                             | Camp 0  | Unknown |                          | ☑️  |
+| A1-010 | Easy               | If else                                             | Camp 0  | Unknown |                          | ☑️  |
 | A1-011 | Easy-Normal        | String, For loop                                    | Camp 0  | Unknown |                          | No  |
-| A1-012 | Normal-Easy        | String (reverse,string to int)                      | Camp 1  | Unknown |                          | No  |
+| A1-012 | Normal-Easy        | String (reverse,string to int)                      | Camp 1  | Unknown |                          | ☑️  |
 | A1-013 | Easy               | If else                                             | Camp 0  | Unknown |                          | No  |
 | A1-014 | Easy               | Min Max                                             | Camp 0  | Unknown |                          | No  |
 | A1-015 | Easy-Normal        | String                                              | Camp 0  | Unknown |                          | No  |
