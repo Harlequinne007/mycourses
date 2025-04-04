@@ -4,7 +4,6 @@
 
 ### --- Description ---
 | Codename | Difficulty             | Name & Description                                              | Level  | Bruteforcable ? | Note            | Done ? |
-| A1-001 | Easy               | String                                              | Camp 0  | Unknown |                          | No  |
 | ------ | ------------------ | --------------------------------------------------- | ------- | ------- | ------------------------ | --- |
 | A1-002 | Easy               | If else                                             | Camp 0  | Unknown |                          | No  |
 | A1-003 | Easy               | Min Max                                             | Camp 0  | Unknown |                          | No  |
